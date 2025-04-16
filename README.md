@@ -10,5 +10,6 @@
 # 2.pip install torch torchvision
 # 3. python train.py
 #
-#
+# 无法上传resnet50文件
+# http://download.pytorch.org/models/resnet50-19c8e357.pth
 
