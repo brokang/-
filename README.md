@@ -1,4 +1,4 @@
-# -Author Yuankang Zhang
+# -Author Y_k_Zhang
 # -Date 2025.4.16
 # -Title Based on ResNet50 to spliting litter photoes
 # 基于ResNet50模型对垃圾分类识别
